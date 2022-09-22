@@ -1,5 +1,6 @@
 # Understanding-Amazon-From-Sapce
-This notebook was created to perform image classification for the competition Understanding Amazon from Space.
+This notebook was created to perform image classification for the competition Understanding Amazon from Space. A baseline CNN model, VGG-16 and Resnet50 were trained
+to perform classification.
 
 All the details are within the notebook and it is self-explanatory.
 If someone wants to import the dataset directly into Google Colab without downloading it, please use the below commands in your colab notebook.
